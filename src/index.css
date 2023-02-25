@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: 'Urbanist', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+input[type="search"] {
+  border: none;
+  
+}
+input[type="search"]:focus {
+  outline: none;
+  
+}
+.languages
+{
+ padding: 6px;
+ border-style: none;
+ margin-right: 16px;
+}
+
+ .Message:focus
+{
+  outline: none;
+
+ }
+ .Message
+ {
+   border: none;
+   width: 100%;
+ 
+  }
